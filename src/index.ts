@@ -29,6 +29,7 @@ export { default as Body1 } from './Typography/Body1';
 export { default as Body2 } from './Typography/Body2';
 export { default as Caption1 } from './Typography/Caption1';
 export { default as Caption2 } from './Typography/Caption2';
+export { default as Tab } from './Tab/TabContainer';
 
 export { Colors, BreakPoints, TextStyles, Icon, ElevationStyles, Input, Select };
 export { default as GlobalStyle } from './GlobalStyle';
